@@ -5,7 +5,11 @@
 
 Real-time analytics dashboard visualizing multilingual public feedback and sentiment insights.
 
-![MyGov Comments Dashboard](dashboard-preview.png)
+![MyGov Comments Dashboard]
+<img width="1920" height="1080" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/b9b2b60d-d4e4-4d73-84f4-14afead26555" />
+
+<img width="1920" height="1080" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/161e4f06-69d8-4947-a692-406d28355329" />
+
 
 ---
 
@@ -109,6 +113,9 @@ Runs at: http://localhost:3000
 
 * Processed sentiment data stored as CSV
 * Used for fallback & audit purposes
+
+  <img width="1920" height="1080" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/b2e7c25d-6ad3-4d93-9963-50541a222deb" />
+
 
 ---
 
